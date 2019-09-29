@@ -6,5 +6,5 @@ It was created with Jetbrains Rider on Linux using Mono to compile and run.
 
 https://www.mono-project.com/
 
-Example process looks like this:
+
 
